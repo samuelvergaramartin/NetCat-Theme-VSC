@@ -1,0 +1,33 @@
+{
+  "name": "netcat-theme",
+  "displayName": "NetCat Theme",
+  "description": "NetCat Theme for VSC",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NetCat Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NetCat Theme-color-theme.json"
+      }
+    ]
+  },
+  "icon": "images/netcat.webp",
+  "author": "samuelvergaramartin@protonmail.com",
+  "license": "GPL-2.0-only",
+  "publisher": "Sam170703dev",
+  "bugs": {
+    "url": "https://github.com/samuelvergaramartin/NetCat-Theme-VSC/issues"
+  },
+  "homepage": "https://github.com/samuelvergaramartin/NetCat-Theme-VSC#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelvergaramartin/NetCat-Theme-VSC.git"
+  }
+}
