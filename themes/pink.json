@@ -2,16 +2,16 @@
 	"name": "netcat-theme",
 	"colors": {
 		"editor.background": "#463e3e",
-		"activityBarBadge.background": "#991b1b",
+		"activityBarBadge.background": "#991b6f",
 		"activityBarBadge.foreground": "#00ffee",
-		"activityBar.background": "#991b1b",
+		"activityBar.background": "#991b6f",
 		"activityBar.foreground": "#00ffee",
-		"statusBar.background": "#991b1b",
+		"statusBar.background": "#991b6f",
 		"statusBar.foreground": "#00ffee",
 		"sideBarTitle.foreground": "#00ffee",
-		"sideBar.background": "#903f3f",
+		"sideBar.background": "#903f72",
 		"sideBar.foreground": "#00ffee",
-		"activityBarTop.background": "#991b1b",
+		"activityBarTop.background": "#991b6f",
 		"activityBarTop.foreground": "#00ffee"
 	},
 	"tokenColors": [
