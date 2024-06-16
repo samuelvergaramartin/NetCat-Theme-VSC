@@ -2,9 +2,9 @@
   "name": "netcat-theme",
   "displayName": "NetCat Theme",
   "description": "NetCat Theme for VSC",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.90.0"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Themes"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "NetCat Theme",
+        "label": "NetCat Theme: Red",
         "uiTheme": "vs-dark",
-        "path": "./themes/NetCat Theme-color-theme.json"
+        "path": "./red.json"
       }
     ]
   },
