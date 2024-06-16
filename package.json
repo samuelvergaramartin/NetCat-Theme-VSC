@@ -15,6 +15,31 @@
         "label": "NetCat Theme: Red",
         "uiTheme": "vs-dark",
         "path": "./themes/red.json"
+      },
+      {
+        "label": "NetCat Theme: Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/purple.json"
+      },
+      {
+        "label": "NetCat Theme: Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blue.json"
+      },
+      {
+        "label": "NetCat Theme: Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pink.json"
+      },
+      {
+        "label": "NetCat Theme: Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark.json"
+      },
+      {
+        "label": "NetCat Theme: Light",
+        "uiTheme": "vs",
+        "path": "./themes/light.json"
       }
     ]
   },
