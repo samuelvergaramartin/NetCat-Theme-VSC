@@ -14,7 +14,7 @@
       {
         "label": "NetCat Theme: Red",
         "uiTheme": "vs-dark",
-        "path": "./red.json"
+        "path": "./themes/red.json"
       }
     ]
   },
