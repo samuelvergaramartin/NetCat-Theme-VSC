@@ -2,7 +2,7 @@
 	"name": "netcat-theme",
 	"colors": {
 		"editor.background": "#1c1616",
-		"activityBarBadge.background": "#1c1616",
+		"activityBarBadge.background": "#454345",
 		"activityBarBadge.foreground": "#ff0400",
 		"activityBar.background": "#1c1616",
 		"activityBar.foreground": "#ff0400",
